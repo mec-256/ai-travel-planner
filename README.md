@@ -23,16 +23,16 @@ Sealine AI is a production-ready, autonomous travel agent that plans complex, en
 - **Modern UI/UX:** Built with Streamlit, featuring a glassmorphism design, real-time "Thinking" execution expanders, and session management.
 
 ## 📸 Evidences & Screenshots
-> **Note to Recruiter/Viewer:** See the system in action below!
+> **Note to Viewer:** See the system in action below!
 
-*(Replace the links below with your actual screenshots after uploading them)*
+
 -  Screenshot of the Welcome Screen
 - <img width="1918" height="807" alt="image" src="https://github.com/user-attachments/assets/c5556878-3737-4ee6-8d75-ec4ede6ae8a7" />
 
-- Insert Screenshot of the Agent's "Thinking" Expander
+-  Screenshot of the Agent's "Thinking" Expander
 - <img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/4f3e747c-e4bf-4597-9fdc-e10fc7d2b327" />
 
-- Screenshot of a final generated itinerary
+-  Screenshot of a final generated itinerary
 - <img width="887" height="761" alt="image" src="https://github.com/user-attachments/assets/470ce3e2-3457-46de-951c-e28461476d2e" />
 - <img width="923" height="642" alt="image" src="https://github.com/user-attachments/assets/23def175-669b-4c33-83e1-12e70f4cf05c" />
 - <img width="877" height="647" alt="image" src="https://github.com/user-attachments/assets/9ec0ee1a-ad63-40a2-a0c1-38816dd2a110" />
