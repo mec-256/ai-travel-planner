@@ -79,6 +79,7 @@ with st.sidebar:
     st.write("---")
     if st.button("🔄 Clear Current UI Chat Screen"):
         st.session_state.chat_history = []
+        st.session_state.thread_id = str(uuid.uuid4())
         st.rerun()
 
 # --- UI LAYOUT ---
