@@ -26,9 +26,21 @@ Sealine AI is a production-ready, autonomous travel agent that plans complex, en
 > **Note to Recruiter/Viewer:** See the system in action below!
 
 *(Replace the links below with your actual screenshots after uploading them)*
-- [Insert Screenshot of the Welcome Screen]
-- [Insert Screenshot of the Agent's "Thinking" Expander]
-- [Insert Screenshot of a final generated itinerary]
+-  Screenshot of the Welcome Screen
+- <img width="1918" height="807" alt="image" src="https://github.com/user-attachments/assets/c5556878-3737-4ee6-8d75-ec4ede6ae8a7" />
+
+- Insert Screenshot of the Agent's "Thinking" Expander
+- <img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/4f3e747c-e4bf-4597-9fdc-e10fc7d2b327" />
+
+- Screenshot of a final generated itinerary
+- <img width="887" height="761" alt="image" src="https://github.com/user-attachments/assets/470ce3e2-3457-46de-951c-e28461476d2e" />
+- <img width="923" height="642" alt="image" src="https://github.com/user-attachments/assets/23def175-669b-4c33-83e1-12e70f4cf05c" />
+- <img width="877" height="647" alt="image" src="https://github.com/user-attachments/assets/9ec0ee1a-ad63-40a2-a0c1-38816dd2a110" />
+- <img width="895" height="645" alt="image" src="https://github.com/user-attachments/assets/8bd916f4-4fd8-4eaa-9069-993351f9fa32" />
+
+
+
+
 
 ## 🏗️ Architecture
 The backend is powered by `create_react_agent` from LangGraph. The LLM acts as the central router, accessing a suite of specialized Python tools:
