@@ -50,7 +50,7 @@ The backend is powered by `create_react_agent` from LangGraph. The LLM acts as t
 4. `search_local_costs`: Estimates daily budgets for food and transport.
 
 ## 🚀 Live Demo
-You can try the live application here: **[Insert Streamlit Cloud URL]**
+You can try the live application here: **[https://ai-travel-planner-4wzn7dycantjfcrcc7wy5p.streamlit.app/]**
 
 ## 💻 Local Setup
 To run this project locally on your machine:
